@@ -175,8 +175,8 @@ function preload(){
   tridentStrikeAni = loadAnimation("waterPollution/tridentStrike_1.png", "waterPollution/tridentStrike_1 - 2.png", 
   "waterPollution/tridentStrike_2.png","waterPollution/tridentStrike_2_1.png",  "waterPollution/tridentStrike_3.png", "waterPollution/tridentStrike_5.png");
 
-   aquamanSwimmingAni = loadAnimation("waterPollution/Swimming_1.png", "waterPollution/Swimming_2.png", "waterPollution/Swimming_3.png", "waterPollution/Swimming_4.png",
-   "waterPollution/Swimming_5.png", "waterPollution/Swimming_6.png", "waterPollution/Swimming_7.png", "waterPollution/Swimming_8.png");
+   aquamanSwimmingAni = loadAnimation("waterPollution/swimming_1.png", "waterPollution/swimming_2.png", "waterPollution/swimming_3.png", "waterPollution/swimming_4.png",
+   "waterPollution/swimming_5.png", "waterPollution/swimming_6.png", "waterPollution/swimming_7.png", "waterPollution/swimming_8.png");
 
    tridentSpinBlockAni = loadAnimation("waterPollution/tridentSpin_1.png", "waterPollution/tridentSpin_2.png", "waterPollution/tridentSpin_3.png"
    , "waterPollution/tridentSpin_4.png", "waterPollution/tridentSpin_5.png", "waterPollution/tridentSpin_6.png"
